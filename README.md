@@ -1,1 +1,2 @@
-# ef-help-bot
+TOKEN = 8361746320:AAHMtOptbQpPT-l5moTiSoTA4hxKnmCk52g
+ADMIN_IDS = 751440488
